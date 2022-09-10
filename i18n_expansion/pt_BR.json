@@ -2,10 +2,10 @@
    "locale": "pt_BR",
    "title": "Português brasileiro",
    "versionCode": 0,
-   "Lucas Lourenço",
+   "author": "Lucas Lourenço",
    "github": "lucas-04",
    "avatar": "avatars/lucas-04.png",
-   "dados": {
+   "data": {
 	"aboutPageTitle": "Sobre",
 	"accountPageTitle": "Gerenciar contas",
 	"blockTagPageTitle": "Gerenciar lista negra",
