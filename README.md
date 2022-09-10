@@ -32,4 +32,4 @@
 每次更新时`versionCode`+1  
 使用生成器生成`data`段并填充
 
-#### 由`Pixiv Func`项目加载
+#### 由[Pixiv Func](https://github.com/git-xiaocao/pixiv_func_mobile)项目加载
