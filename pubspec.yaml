@@ -1,7 +1,7 @@
-name: pixiv_func_i18n_expansion
+name: pixiv_func_i18n_generator
 description: Pixiv Func I18n Generator
 
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: '>=2.18.0 <3.0.0'

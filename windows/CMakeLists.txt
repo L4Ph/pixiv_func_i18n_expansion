@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(pixiv_func_i18n_expansion LANGUAGES CXX)
+project(pixiv_func_i18n_generator LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "pixiv_func_i18n_expansion")
+set(BINARY_NAME "pixiv_func_i18n_generator")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

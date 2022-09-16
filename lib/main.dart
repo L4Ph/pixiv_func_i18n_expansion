@@ -259,8 +259,8 @@ List<LineItem> decodeLines(String input) {
       try {
         final name = line.substring(line.indexOf('I18n.'), line.indexOf(':'));
         final String value;
-        if (line.contains(',')) {
-          value = line.substring(line.indexOf('\'') + 1, line.indexOf(',') - 1);
+        if (line.contains('\',')) {
+          value = line.substring(line.indexOf('\'') + 1, line.indexOf('\','));
         } else {
           value = line.substring(line.indexOf('\'') + 1, line.length - 2);
         }
