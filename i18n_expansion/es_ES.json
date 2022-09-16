@@ -138,7 +138,7 @@
 	"languageExpansion": "expansión del idiomas",
 	"clearLanguageExpansion": "Eliminar idiomas de expansión",
 	"loadFromGitHub": "cargar desde gitgub",
-	"updateLanguageExpansionHint": " los paquetes de expansión de idioma % se actualizan.Reinicie la aplicación para completar",
+	"updateLanguageExpansionHint": " los paquetes de expansión de idioma %s se actualizan.Reinicie la aplicación para completar",
 	"noUpdateLanguageExpansionHint": "No es necesario actualizar los paquetes de idioma",
 	"resolution": "Resolución:%s",
 	"summary": "Resumen",
