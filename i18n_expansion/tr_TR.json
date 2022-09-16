@@ -37,7 +37,7 @@
         "restrictPrivate": "Gizli",
         "account": "Hesap",
         "versionUpdate": "Sürüm Güncellemesi",
-        "versionUpdateHint": "Geçerli sürüm:%s",
+        "versionUpdateHint": "Geçerli Sürüm:%s,Son Sürüm:%s,Görüntülemek için tıklayın",
         "checkVersionHint": "Sürüm güncellemelerini denetle",
         "hasNewVersionHint": "Yeni sürüm bulund",
         "noNewVersionHint": "Zaten en son sürümdesiniz",
