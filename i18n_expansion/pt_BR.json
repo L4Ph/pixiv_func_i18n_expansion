@@ -37,7 +37,7 @@
 	"restrictPrivate": "Privado",
 	"account": "Conta",
 	"versionUpdate": "Atualização de versão",
-	"versionUpdateHint": "Versão atual:%",
+	"versionUpdateHint": "Versão atual:%s,Versão mais recente:%s,Clique para ver",
 	"checkVersionHint": "Buscar atualizações",
 	"hasNewVersionHint": "Clique para atualizar ",
 	"noNewVersionHint": "Não há atualizações",

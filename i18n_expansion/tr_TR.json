@@ -1,7 +1,7 @@
 {
    "locale": "tr_TR",
    "title": "Türkçe",
-   "versionCode": 0,
+   "versionCode": 1,
    "author": "Katsuyuki Karasawa",
    "github": "Katsuyuki-Karasawa",
    "avatar": "avatars/Katsuyuki-Karasawa.png",
@@ -37,7 +37,7 @@
         "restrictPrivate": "Gizli",
         "account": "Hesap",
         "versionUpdate": "Sürüm Güncellemesi",
-        "versionUpdateHint": "Geçerli sürüm:%",
+        "versionUpdateHint": "Geçerli Sürüm:%s,Son Sürüm:%s,Görüntülemek için tıklayın",
         "checkVersionHint": "Sürüm güncellemelerini denetle",
         "hasNewVersionHint": "Yeni sürüm bulund",
         "noNewVersionHint": "Zaten en son sürümdesiniz",
@@ -135,6 +135,11 @@
         "mediumImage": "Orta",
         "largeImage": "Büyük",
         "originalImage": "Orijinal",
+        "languageExpansion": "Dil genişletme paketleri",
+        "clearLanguageExpansion": "Tüm dil uzantısı paketlerini kaldırın",
+        "loadFromGitHub": "GitHub'dan okuyun.",
+        "I18n.updateLanguageExpansionHint": "%s dil uzantısı paketlerini güncelleyin Uygulamayı yeniden başlatın ve etkinleştirin",
+        "I18n.noUpdateLanguageExpansionHint": "Dil genişletme paketlerinin güncellenmesi gerekmez",
         "resolution": "Çözünürlük:%s",
         "summary": "Özet",
         "uploadDate": "Güncelleme tarihi %s",
@@ -216,3 +221,4 @@
         "notPremiumHint": "Pixiv Premium değilsini",
         "searchImageStatus429Hint": "Mevcut IP adresi SauceNAO\\'da kayıtsız kullanıcılar için olan günlük 50 kullanım sınırını aşıyor"
       }
+}
